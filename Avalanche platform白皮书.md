@@ -1,6 +1,7 @@
 # Avalanche platform白皮书
 
-摘要：论文介绍了首次发布的Avalanche平台架构，平台原生token（AVAX）的经济属性会在另一篇论文（dynamics paper）进行详述。披露：论文描述的内容是基础的、并可能在以后的时间里进行更新；此外，论文会包含一些前瞻性的描述。
+摘要：论文介绍了首次发布的Avalanche平台架构，平台原生token（AVAX）的经济属性会在另一篇论文（dynamics paper）进行详述。
+披露：论文描述的内容是基础的、并可能在以后的时间里进行更新；此外，论文会包含一些前瞻性的描述。
 
 ## 1. 介绍
 
@@ -185,7 +186,8 @@ Avanlance 发布时就通过EVM虚拟机支持标准的Solidity智能合约，�
 3. Douceur, J.R.: The sybil attack. In: InternationalWorkshop on Peer-to-Peer Systems. pp. 251{260. Springer (2002)
 4. Eyal, I., Gencer, A.E., Sirer, E.G., van Renesse, R.: Bitcoin-ng: A scalable blockchain protocol. In: 13th USENIX Symposium on Networked Systems Design and Implementation, NSDI 2016, Santa Clara, CA, USA, March 16-18, 2016. pp. 45{59 (2016), https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/eyal
 5. Nakamoto, S.: Bitcoin: A peer-to-peer electronic cash system (2008)
-6. Rocket, T.: Snowflake to Avalanche: A novel metastable consensus protocol family for cryptocurrencies. IPFS(2018), https://ipfs.io/ipfs/QmUy4jh5mGNZvLkjies1RWM4YuvJh5o2FYopNPVYwrRVGV
+6. Rocket, T.: Snowflake to Avalanche: A novel metastable consensus protocol family for cryptocurrencies. IPFS
+(2018), https://ipfs.io/ipfs/QmUy4jh5mGNZvLkjies1RWM4YuvJh5o2FYopNPVYwrRVGV
 7. Wood, G.: Ethereum: A secure decentralised generalised transaction ledger (2014)
 
 
