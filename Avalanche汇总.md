@@ -175,6 +175,7 @@ When you add a node to the validator set, you specify:
 
 The only secret that you need on your validating node is its Staking Key, the TLS key that determines your node’s ID. The first time you start a node, the Staking Key is created and put in `$HOME/.avalanchego/staking/staker.key`. You should back up this file (and `staker.crt`) somewhere secure. Losing your Staking Key could jeopardize your validation reward, as your node will have a new ID.
 
+
 [Monitor an Avalanche Node | Avalanche Docs](https://docs.avax.network/nodes/maintain/setting-up-node-monitoring)
 
 ## Delegators 委托者
