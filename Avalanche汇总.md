@@ -188,8 +188,3 @@ When you delegate stake to a validator, you specify:
 - When you want to start/stop delegating stake (must be while the validator is validating)
 - How many AVAX you are staking
 - The address to send any rewards to
-
-
-
-test
-
